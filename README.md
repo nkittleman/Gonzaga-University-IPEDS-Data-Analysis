@@ -41,3 +41,5 @@ This analysis offers several key benefits, including:
 - Tennessee State University
 ## Data Overview:
 This dataset comes from the Integrated Postsecondary Education Data System (IPEDS) and is comprised of a collection of surveys collected by the National Center for Education Statistics (NCES). This data includes all academic institutions operating within the United States that participate in federal student financial aid programs. There is a broad range of information included within this dataset, but key variables include enrollment statistics, graduation rates, tuition costs, faculty statistics, institutional finances, etc. To download this dataset or learn more information, please refer to the following link: https://nces.ed.gov/ipeds/.
+## Example Visualizations
+
