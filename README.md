@@ -42,4 +42,22 @@ This analysis offers several key benefits, including:
 ## Data Overview:
 This dataset comes from the Integrated Postsecondary Education Data System (IPEDS) and is comprised of a collection of surveys collected by the National Center for Education Statistics (NCES). This data includes all academic institutions operating within the United States that participate in federal student financial aid programs. There is a broad range of information included within this dataset, but key variables include enrollment statistics, graduation rates, tuition costs, faculty statistics, institutional finances, etc. To download this dataset or learn more information, please refer to the following link: https://nces.ed.gov/ipeds/.
 ## Example Visualizations
-
+![Graph1](EndowmentConference.png)
+![Graph2](EndowmentNew.png)
+![Graph3](EndowmentOld.png)
+![Graph4](GraduationRateConference.png)
+![Graph5](GraduationRateNew.png)
+![Graph6](GraduationRateOld.png)
+![Graph7](RetentionRateNew.png)
+![Graph8](RetentionRateOld.png)
+![Graph9](RetentionRateOldSchools.png)
+![Graph10](StudentBody.png)
+![Graph11](StudentBodyConference.png)
+![Graph12](StudentBodyNew.png)
+![Graph13](WAEnrollment2019.png)
+![Graph14](WAEnrollment2024.png)
+![Graph15](WAEnrollmentTrend.png)
+![Graph16](WASector2019.png)
+![Graph17](WASector2024.png)
+![Graph18](WASectorTrend.png)
+![Graph19](WASectorTrend2.png)
